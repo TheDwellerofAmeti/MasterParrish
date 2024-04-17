@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MasterParrish
+- 👋 Hi
 - 👀 I’m interested in learning, developing, and applying AI skills
 - 🌱 I’m currently learning about data and integration 
 - 💞️ I’m looking to collaborate on small projects 
